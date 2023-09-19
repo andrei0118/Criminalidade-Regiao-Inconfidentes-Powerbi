@@ -14,6 +14,7 @@ A seguir dados de criminalidade dos municípios: Congonhas - MG | Itabirito - MG
 Fonte: Observatório de Segurança Pública/Sejusp
 
 Crimes Violentos: soma dos registros de Estupro Consumado; Estupro de Vulnerável Consumado; Estupro de Vulnerável Tentado; Estupro Tentado; Extorsão Consumado; Extorsão Tentado; Extorsão Mediante Sequestro Consumado; Homicídio Tentado; Roubo Consumado; Roubo Tentado; Sequestro e Cárcere Privado Consumado; Sequestro e Cárcere Privado Tentado e Homicídio Consumado (registros).
+
 ##  Layouts  
 
 ![9e09de36dfb84915cf06c6a3f259b165HnSjnLSUsQcJC4OD-0](https://github.com/andrei0118/Criminalidade-Regiao-Inconfidentes-Powerbi/assets/75299828/129aaf49-33e4-4c40-831a-830bc8bb60df)
