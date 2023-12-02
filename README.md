@@ -1,6 +1,6 @@
-# Observatório da Criminalidade da Região dos Inconfidentes
+## Observatório da Criminalidade da Região dos Inconfidentes
 
-## Licença  
+### Licença  
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
@@ -32,14 +32,16 @@ Crimes Violentos: soma dos registros de Estupro Consumado; Estupro de Vulneráve
 ![9e09de36dfb84915cf06c6a3f259b165HnSjnLSUsQcJC4OD-12](https://github.com/andrei0118/Criminalidade-Regiao-Inconfidentes-Powerbi/assets/75299828/4eb59af6-5f53-44f9-95e8-e86f0728fa24)
 ![9e09de36dfb84915cf06c6a3f259b165HnSjnLSUsQcJC4OD-13](https://github.com/andrei0118/Criminalidade-Regiao-Inconfidentes-Powerbi/assets/75299828/e578ff0e-1e48-4400-b4b4-c78e170350bc)
 
-# Tecnologias utilizadas
+## Ferramentas
+
 - Powew Bi
   
 ## Autor
-Análise de Dados: Andrei Santos | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia. 
+
+- Análise de Dados: Andrei Santos | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia. 
 
 Fonte de dados: [SEJUSP - Secretaria de Estado de Justiça e Segurança Pública](http://www.seguranca.mg.gov.br/2018-08-22-13-39-06/dados-abertos) 
 
-Andrei Camilo dos Santos
-https://www.linkedin.com/in/andrei0118-santos
+- Andrei Camilo dos Santos
+- https://www.linkedin.com/in/andrei0118-santos
 
